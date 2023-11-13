@@ -10,6 +10,12 @@ namespace Console
 		{
 			for (int x = 0; x < WSCREEN; x++)
 			{
+				//Solves a little ASCII bug
+				if (y == 0)
+				{
+					break;
+				}
+				
 				cout << buffer[x][y];
 			}
 			cout << endl;
