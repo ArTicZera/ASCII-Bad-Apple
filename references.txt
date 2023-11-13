@@ -1,1 +1,8 @@
+【東方】Bad Apple!! ＰＶ【影絵】: https://www.youtube.com/watch?v=FtutLA63Cp8
 
+- Some links used as base to make an RGB to ASCII converter
+     https://www.jonathan-petitcolas.com/2017/12/28/converting-image-to-ascii-art.html
+     https://medium.com/@marvinirwin/rgb-to-ascii-color-with-curses-in-c-a10f0f913c7d
+
+- Reading and Writing videos using OpenCV
+     https://learnopencv.com/reading-and-writing-videos-using-opencv/
