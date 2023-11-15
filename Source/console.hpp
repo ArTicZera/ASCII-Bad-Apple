@@ -18,7 +18,7 @@ namespace Console
 				
 				cout << buffer[x][y];
 			}
-			cout << endl;
+			cout << '\n';
 		}
 	}
 
