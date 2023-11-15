@@ -4,9 +4,10 @@ Small "Bad Apple!!" animation played in CMD with ASCII characters. It uses OpenC
 ![GitHub Logo](Screenshots/Screenshot_1.png)
 
 # 📦 Dependencies
-To run this program you'll need Microsoft Visual C++ 2015-2022 Redistributable Package. That can be downloaded here: 
+To run this program you'll need Microsoft Visual C++ 2015-2022 Redistributable Package and OpenCV. That can be downloaded here: 
 
 https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
+https://opencv.org/releases/
 
 # 📋 Instalation Instructions
 If you want to compile it, it will be necessary downloading OpenCV2 libraries, which can be found here: 
