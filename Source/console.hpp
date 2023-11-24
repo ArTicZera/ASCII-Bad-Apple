@@ -6,16 +6,11 @@ namespace Console
 {
 	void printFrame(char buffer[WSCREEN][HSCREEN])
 	{
-		for (int y = 0; y < HSCREEN; y++)
+		//Y = 1 as a fix to a small bug.
+		for (int y = 1; y < HSCREEN; y++)
 		{
 			for (int x = 0; x < WSCREEN; x++)
 			{
-				//Solves a little ASCII bug
-				if (y == 0)
-				{
-					break;
-				}
-				
 				cout << buffer[x][y];
 			}
 			cout << '\n';
